@@ -1,3 +1,5 @@
+//José Carlos Chávez Morán
+
 class Ejercicio5 {
   public static void main(String[] args) {
     int[] numbers = {1,2,2,5,4,6,7,8,8,8};
